@@ -1,5 +1,6 @@
 Program main
-        write(*,*) "Hello 1,World!"
-        write(*,*) "Hi, It's me"
+        WRITE(*,*) "Hello 1,World!"
+        WRITE(*,*) "Hi, It's me!"
+        WRITE(*,*) "I want to be 007"
 STOP
 END Program
